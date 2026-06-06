@@ -14,10 +14,10 @@
 | **Genre** | Puzzle / Escape room / Point-and-click adventure | Niche within casual puzzle - smaller addressable audience but higher engagement and retention |
 | **Content** | 9 chapters (Seasons, The Lake, Arles, Harvey's Box, Case 23, The Mill, Birthday, Theatre, The Cave) | Sequential content = natural progression hooks for retention; chapter completion events are ideal UA optimisation targets |
 | **Art style** | Surrealist, Twin Peaks-inspired, hand-drawn | Highly distinctive visual identity - creatives should lean into the surreal aesthetic, not generic puzzle imagery |
-| **Avg session** | 12–18 minutes | Very long for mobile - users who install are engaged; the challenge is getting them past the first 3 minutes |
+| **Avg session** | 12–18 minutes | Very long for mobile - users who install are engaged; the challenge: get them past the first 3 minutes |
 | **Engine** | Unity | Native Unity Ads and ironSource SDK integration; LevelPlay mediation is the natural monetisation stack |
 | **Platforms** | iOS, Android, Steam, Web | Mobile is the UA target; Steam is the long-tail organic discovery channel |
-| **Downloads** | 5M+ (Google Play, as of 2025) | Mature title with established organic baseline - paid UA is incremental, not foundational |
+| **Downloads** | 5M+ (Google Play, as of 2025) | Mature title with established organic baseline - paid UA is incremental |
 | **Rating** | 4.6★ (Google Play), 4.7★ (App Store) | Strong ratings = high ASO conversion potential; should be leveraged in ad copy |
 | **Price** | Free (with IAP + ads) | Hybrid monetisation: rewarded ads (primary revenue) + IAP hint packs (secondary) |
 
@@ -27,7 +27,7 @@ Cube Escape Collection is a **mature catalogue title** (released October 2020, 5
 
 - **Organic installs are declining.** The initial launch spike and content updates (latest: v1.4.1, September 2025) have been exhausted. Paid UA is now required to maintain install velocity.
 - **The audience is niche but loyal.** Puzzle/escape-room players have higher D1 retention (35–42%) than hyper-casual (25–30%) but the addressable audience is smaller. Broad targeting will waste spend on users who churn in 30 seconds.
-- **Content is finite.** Unlike a live-service game with weekly events, Cube Escape has 9 fixed chapters. Once a user completes all 9, the monetisation window closes. This means LTV has a ceiling - and the UA strategy must account for it.
+- **Content is finite.** Unlike a live-service game with weekly events, Cube Escape has 9 fixed chapters. Once a user completes all 9, the monetisation window closes. This means LTV has a ceiling which the UA strategy must account for.
 - **Cross-promotion opportunity.** Rusty Lake has 10+ titles in the same universe (Rusty Lake Hotel, Roots, Paradox, The Past Within). Users acquired into Cube Escape Collection who complete it become warm leads for premium titles. This cross-title LTV is not captured in standard D7/D30 ROAS but is commercially significant.
 
 ### Monetisation model deep-dive
