@@ -4,22 +4,6 @@
 
 ---
 
-## Course of action and reasoning
-
-This case study follows the analytical sequence a Performance Marketing Junior or UA Junior would execute in their first quarter managing campaigns for an existing mobile title. The structure is deliberate: you must understand the product before you can acquire users profitably, and you must understand the market before you can set realistic targets.
-
-**Phase 1 - Game analysis.** Before touching any ad dashboard, analyse what makes Cube Escape Collection distinctive. Its genre (puzzle/escape room), session length, monetisation model, and lifecycle stage all determine which UA levers will and will not work. A hyper-casual approach would be catastrophic here - this is a narrative-driven niche title with 12–18 minute sessions, not a 30-second gameplay loop.
-
-**Phase 2 - Market research and benchmarks.** Ground every KPI target in published 2025–2026 data. If you set a D7 ROAS target of 20% without knowing the puzzle genre benchmark is 7.6–7.8% (Liftoff 2025), you will either kill campaigns prematurely or scale unprofitable ones.
-
-**Phase 3 - Q1 campaign performance analysis.** With 36,839 daily data points across 5 ad networks, 3 region tiers, 15 countries, 4 creative formats, and 2 platforms, identify where spend is efficient, where it is wasted, and where untapped opportunity exists.
-
-**Phase 4 - Prescriptive recommendations.** Specific, actionable, costed. Not "improve creatives" but "produce 3 new Playable variants focusing on Chapter 3 (The Mill) puzzle mechanics, targeting T1 iOS on Unity Ads, with a target IPM of 14+ and CPI below £2.50."
-
-**Phase 5 - Power BI dashboard.** Built for decision-making, not description. Every page answers a specific question that a UA lead would ask in a Monday morning review.
-
----
-
 ## Phase 1 - Game analysis: Cube Escape Collection
 
 ### Product characteristics
@@ -147,11 +131,11 @@ Keyword `escape room game` (volume: 28,000/month) - we rank position 62, generat
 
 | # | Action | Region | Expected impact | Timeline | Cost |
 |---|---|---|---|---|---|
-| 1 | Shift 80% of Static End Card budget → Playable production | All | −15% blended CPI, +22% IPM | Immediate | £0 (budget reallocation) |
+| 1 | Shift 80% of Static End Card budget → Playable production | All | -15% blended CPI, +22% IPM | Immediate | £0 (budget reallocation) |
 | 2 | Commission 3 new Playable creatives (Ch3, Ch5, Ch7) | T1, T2 | Extend creative lifespan by 3× | 2 weeks to produce | £1,500–2,500 |
 | 3 | Increase T2 Brazil daily budget by 40% | T2 | +1,200 installs/month at £0.52 CPI | Immediate | +£870/month |
-| 4 | Reduce T3 India spend by 50% | T3 | Save £975/month; reinvest in T2 | Immediate | −£975/month |
-| 5 | Scale TikTok by 25%, shift to ROAS bidding | T1, T2 | −18% CPI vs Meta at comparable retention | 1 week | +£1,200/month |
+| 4 | Reduce T3 India spend by 50% | T3 | Save £975/month; reinvest in T2 | Immediate | -£975/month |
+| 5 | Scale TikTok by 25%, shift to ROAS bidding | T1, T2 | -18% CPI vs Meta at comparable retention | 1 week | +£1,200/month |
 | 6 | 10-day creative rotation cycle | All | Prevent 29% IPM decay observed in Q1 | Ongoing process | £800/month (production) |
 | 7 | ASO: update subtitle + screenshots | All (organic) | +500–800 organic installs/month | 1 week | £0 |
 | 8 | Add 2nd rewarded ad placement per chapter | All | +15–20% ad revenue per session | 2 weeks (dev) | Dev time only |
@@ -162,7 +146,7 @@ Keyword `escape room game` (volume: 28,000/month) - we rank position 62, generat
 
 | Metric | Q1 actual | Q2 projected | Change |
 |---|---|---|---|
-| Blended CPI | £0.57 | £0.48 | −16% |
+| Blended CPI | £0.57 | £0.48 | -16% |
 | Total installs | 91,770 | 108,000 | +18% |
 | D7 ROAS (blended) | 10.0% | 13.5% | +35% |
 | Ad revenue (Q2 total) | £5,253 | £7,800 | +48% |
