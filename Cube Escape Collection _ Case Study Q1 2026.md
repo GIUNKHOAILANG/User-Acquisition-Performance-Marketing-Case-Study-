@@ -103,9 +103,12 @@ Brazil delivers: CPI = £0.52, D1 retention = 34.2%, D7 ROAS = 8.1%. This outper
 
 **3. TikTok Ads delivers 18% lower CPI than Meta - consistent with industry trend.**
 
-GameBiz Consulting's 2026 data reports TikTok CPI is 15–25% below Meta for creative-heavy genres. The data confirms this: TikTok T1 CPI = £2.32 vs Meta T1 CPI = £2.82 (18% gap). However, TikTok D7 retention is 2.1pp lower (15.3% vs 17.4%), suggesting the traffic is slightly lower-intent.
+GameBiz Consulting's 2026 data reports TikTok CPI is 15–25% below Meta for creative-heavy genres. The data shows a much wider gap: blended TikTok CPI = £0.38 vs Meta CPI = £1.11, a 66% reduction - roughly three times the benchmark prediction. At the T1 grain the gap narrows to 18%, in line with industry data, which means the blended divergence is being driven by Meta's tier mix and Meta's creative not travelling outside T1.
+Concluding  in: TikTok is cheaper for this genre - confirmed by the benchmark and consistent within T1. Secondly, Meta's blended CPI is roughly £1.11 against an audience and creative stack that should be delivering in the £0.55–£0.65 range. That can be a Meta creative-fatigue or audience-mismatch problem masking as a TikTok win. Acting only on the TikTok side of the gap leaves the Meta cost structure unfixed.
 
-**Recommendation: scale TikTok budget by 25% for volume, but shift to ROAS-optimised bidding (not CPI) to protect retention quality. Test TikTok-native UGC-style creatives (reaction videos, "solve along with me" format).**
+A secondary concern: TikTok D7 retention is 2.1pp lower (15.3% vs 17.4%), so volume scaling without bid discipline imports lower-quality traffic.
+
+Recommendation: scale TikTok budget by 25% under ROAS-optimised bidding (not CPI) to protect retention quality, and run a parallel Meta creative audit - refresh assets, test 2 new Meta-specific Playable variants, and re-measure CPI within four weeks. If post-audit Meta CPI does not move below £0.85, reallocate the residual Meta T1 budget rather than maintain it. Test TikTok-native UGC-style creatives (reaction videos, "solve along with me" format) for the volume scale-up.
 
 **4. iOS CPM premium is eroding T1 profitability.**
 
