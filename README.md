@@ -6,4 +6,4 @@ User acquisition case study for Cube Escape Collection (Rusty Lake) - Q1 2026 ca
 
 This case study analyses Q1 2026 UA performance across 36,839 daily data points spanning Unity Ads, ironSource, AppLovin, Meta, and TikTok in T1 (US/UK/DE), T2 (BR/MX/PL), and T3 (IN/ID/PH) using a generated dataset. 
 
-The result identifying a 29% creative fatigue-driven IPM decline, a T2 Brazil efficiency opportunity at £0.52 CPI / 8.1% D7 ROAS. With the dashboard in Power BI, I managed to produce a 10-point prescriptive action plan projecting 16% CPI reduction and 35% D7 ROAS improvement for Q2.
+The result identifying a 29% creative fatigue-driven IPM decline, a T2 Brazil efficiency opportunity at $0.52 CPI / 8.1% D7 ROAS. With the dashboard in Power BI, I managed to produce a 10-point prescriptive action plan projecting 16% CPI reduction and 35% D7 ROAS improvement for Q2.
