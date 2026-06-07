@@ -1,6 +1,6 @@
 # Cube Escape Collection - User Acquisition Case Study
 
-## Performance marketing analysis for a niche puzzle/escape-room mobile game across three region tiers
+## Performance marketing analysis for a niche puzzle/escape-room mobile game across three region tiers for the Q1 2026 review 
 
 ---
 
